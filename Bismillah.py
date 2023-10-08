@@ -114,7 +114,7 @@ class login:
 		takon = input('\n %s[%s!%s] Mau tau cara ambil token y/t: '%(N,O,N))
 		if takon in ['y','Y','iya']:
 			jalan('\n %s[%s!%s] Kamu akan di arahkan ke Ke Wa Untuk Donasi'%(N,O,N))
-			os.system('xdg-open wa.me/6281221523195');exit()
+			os.system('xdg-open wa.me/6283865283286');exit()
 		else:
 			login().__login__()
 	def bot(self):
